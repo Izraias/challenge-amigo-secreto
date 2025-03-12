@@ -153,6 +153,18 @@ ul {
     font-size: 16px;
 }
 
+.button-reiniciar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 20px 40px;
+    color: var(--color-white);
+    background-color: var(--color-button);
+    font-size: 16px;
+    margin: 10px 0 0 0; 
+    justify-content: center;
+}
+
 .button-draw img {
     margin-right: 40px;
 }

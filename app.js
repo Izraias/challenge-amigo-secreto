@@ -28,7 +28,7 @@ function agregarAmigo(){
 
 }
 
-function imprimeListaAmigos(){
+function imprimirListaAmigos(){
     let listaAmigos = document.getElementById('listaAmigos');
 
 //Evita que se duplique el nombre ya ingresado
