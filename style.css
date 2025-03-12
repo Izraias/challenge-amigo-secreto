@@ -172,3 +172,14 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.button-draw:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.button-reiniciar:hover {
+    background-color: var(--color-button-hover);
+}
